@@ -87,7 +87,7 @@ Remember to maintain your friendly personality in all responses. However, if the
 
     // Instantiate the model
     const generativeModel = vertexAI.getGenerativeModel({
-      model: 'gemini-1.5-pro',
+      model: 'gemini-1.5-pro-002',
       temperature: 0.5,
     });
 
