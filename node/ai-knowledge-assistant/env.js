@@ -19,10 +19,10 @@
  */
 const env = {
   // Replace with your GCP project ID.
-  project: 'us-east4',
+  project: 'delaphoneassistant',
 
   // Replace with your GCP project location. Used for Vertex AI calls.
-  location: 'us-central1',
+  location: 'us-east4',
 
   // Replace with the PubSub topic to receive events.
   // The topic must be in the same GCP project as the Chat app.
